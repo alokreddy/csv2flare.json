@@ -7,6 +7,6 @@
     { "id": 5, "name": "Kiwis",  "price": "$3" },
     { "id": 6, "name": "Avacados", "price": "$15" },
     { "id": 7, "name": "Dragon Fruit",  "price": "$2" },
-    { "id": 8, "name": "Mangos", "price": "$10" },
+    { "id": 8, "name": "Mangos", "price": "$10" }
   ] 
 }
