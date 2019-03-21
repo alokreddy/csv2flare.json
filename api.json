@@ -1,6 +1,12 @@
 {
   "items": [
     { "id": 1, "name": "Apples",  "price": "$2" },
-    { "id": 2, "name": "Peaches", "price": "$5" }
+    { "id": 2, "name": "Peaches", "price": "$5" },
+    { "id": 3, "name": "Oranges",  "price": "$9" },
+    { "id": 4, "name": "Grapes", "price": "$6" },
+    { "id": 5, "name": "Kiwis",  "price": "$3" },
+    { "id": 6, "name": "Avacados", "price": "$15" },
+    { "id": 7, "name": "Dragon Fruit",  "price": "$2" },
+    { "id": 8, "name": "Mangos", "price": "$10" },
   ] 
 }
